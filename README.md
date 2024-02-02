@@ -1,1 +1,1 @@
-# wk-02-assignment
+# assignment 2
